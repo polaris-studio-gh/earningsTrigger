@@ -1,14 +1,14 @@
 {
-  "run_date": "2026-11-20",
-  "run_time": "17:58:07 UTC",
+  "run_date": "2026-11-23",
+  "run_time": "21:38:35 UTC",
   "market_summary": {
     "sp500_trend": "bearish",
-    "sp500_price": 700.24,
-    "sp500_change_pct": -2.18,
+    "sp500_price": 722.29,
+    "sp500_change_pct": 4.71,
     "nasdaq_trend": "bearish",
-    "nasdaq_price": 620.3,
-    "nasdaq_change_pct": -3.84,
-    "vix": 32.01,
+    "nasdaq_price": 651.03,
+    "nasdaq_change_pct": 7.0,
+    "vix": 26.62,
     "vix_trend": "rising",
     "market_regime": "risk_off",
     "risk_level": "high",
@@ -18,97 +18,40 @@
   },
   "earnings_universe": [
     {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings, Inc.",
-      "earnings_date": "2026-12-01",
-      "days_until_earnings": 11,
-      "time": "unknown",
-      "sector": "Technology",
-      "price": 233.56,
-      "scores": {
-        "technical": 84,
-        "fundamental": 45,
-        "options": 63,
-        "sentiment": 70,
-        "historical": 76.2,
-        "macro": 0,
-        "overall": 65.2
-      },
-      "decision": "WAIT"
-    },
-    {
-      "ticker": "TCOM",
-      "company": "Trip.com Group Limited",
-      "earnings_date": "2026-12-01",
-      "days_until_earnings": 11,
-      "time": "unknown",
-      "sector": "Consumer Cyclical",
-      "price": 41.13,
-      "scores": {
-        "technical": 81,
-        "fundamental": 79,
-        "options": 37,
-        "sentiment": 70,
-        "historical": 69.2,
-        "macro": 0,
-        "overall": 64.9
-      },
-      "decision": "WAIT"
-    },
-    {
-      "ticker": "HPE",
-      "company": "Hewlett Packard Enterprise Comp",
-      "earnings_date": "2026-11-23",
-      "days_until_earnings": 3,
-      "time": "unknown",
-      "sector": "Technology",
-      "price": 41.55,
-      "scores": {
-        "technical": 58,
-        "fundamental": 56,
-        "options": 70,
-        "sentiment": 70,
-        "historical": 81.2,
-        "macro": 0,
-        "overall": 61.8
-      },
-      "decision": "WAIT"
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "earnings_date": "2026-11-24",
-      "days_until_earnings": 4,
-      "time": "unknown",
-      "sector": "Technology",
-      "price": 179.38,
-      "scores": {
-        "technical": 66,
-        "fundamental": 80,
-        "options": 37,
-        "sentiment": 47,
-        "historical": 83.6,
-        "macro": 0,
-        "overall": 60.4
-      },
-      "decision": "WAIT"
-    },
-    {
       "ticker": "DELL",
       "company": "Dell Technologies Inc.",
       "earnings_date": "2026-11-24",
-      "days_until_earnings": 4,
+      "days_until_earnings": 1,
       "time": "unknown",
       "sector": "Technology",
-      "price": 281.16,
+      "price": 334.91,
       "scores": {
-        "technical": 58,
+        "technical": 66,
         "fundamental": 77,
-        "options": 37,
+        "options": 70,
         "sentiment": 70,
         "historical": 87.3,
-        "macro": 0,
-        "overall": 60.3
+        "macro": 5,
+        "overall": 69.5
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "earnings_date": "2026-11-23",
+      "days_until_earnings": 0,
+      "time": "unknown",
+      "sector": "Technology",
+      "price": 229.24,
+      "scores": {
+        "technical": 100,
+        "fundamental": 50,
+        "options": 63,
+        "sentiment": 70,
+        "historical": 62.3,
+        "macro": 5,
+        "overall": 69.2
       },
       "decision": "WAIT"
     },
@@ -116,18 +59,56 @@
       "ticker": "MRVL",
       "company": "Marvell Technology, Inc.",
       "earnings_date": "2026-12-01",
-      "days_until_earnings": 11,
+      "days_until_earnings": 8,
       "time": "unknown",
       "sector": "Technology",
-      "price": 124.52,
+      "price": 144.74,
       "scores": {
-        "technical": 58,
+        "technical": 71,
         "fundamental": 90,
-        "options": 42,
+        "options": 70,
         "sentiment": 70,
         "historical": 56.0,
-        "macro": 0,
-        "overall": 59.2
+        "macro": 5,
+        "overall": 68.9
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Comp",
+      "earnings_date": "2026-11-23",
+      "days_until_earnings": 0,
+      "time": "unknown",
+      "sector": "Technology",
+      "price": 48.02,
+      "scores": {
+        "technical": 79,
+        "fundamental": 56,
+        "options": 70,
+        "sentiment": 70,
+        "historical": 81.2,
+        "macro": 5,
+        "overall": 68.3
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday, Inc.",
+      "earnings_date": "2026-11-24",
+      "days_until_earnings": 1,
+      "time": "unknown",
+      "sector": "Technology",
+      "price": 176.08,
+      "scores": {
+        "technical": 63,
+        "fundamental": 80,
+        "options": 63,
+        "sentiment": 47,
+        "historical": 83.6,
+        "macro": 5,
+        "overall": 65.0
       },
       "decision": "WAIT"
     },
@@ -135,37 +116,56 @@
       "ticker": "BILI",
       "company": "Bilibili Inc.",
       "earnings_date": "2026-11-24",
-      "days_until_earnings": 4,
+      "days_until_earnings": 1,
       "time": "unknown",
       "sector": "Communication Services",
-      "price": 10.75,
+      "price": 10.89,
       "scores": {
-        "technical": 40,
+        "technical": 55,
         "fundamental": 78,
-        "options": 55,
+        "options": 70,
         "sentiment": 70,
         "historical": 76.6,
-        "macro": 0,
-        "overall": 57.1
+        "macro": 5,
+        "overall": 64.8
       },
       "decision": "WAIT"
     },
     {
-      "ticker": "ZS",
-      "company": "Zscaler, Inc.",
-      "earnings_date": "2026-12-02",
-      "days_until_earnings": 12,
+      "ticker": "TCOM",
+      "company": "Trip.com Group Limited",
+      "earnings_date": "2026-12-01",
+      "days_until_earnings": 8,
+      "time": "unknown",
+      "sector": "Consumer Cyclical",
+      "price": 41.1,
+      "scores": {
+        "technical": 74,
+        "fundamental": 79,
+        "options": 37,
+        "sentiment": 70,
+        "historical": 66.8,
+        "macro": 5,
+        "overall": 62.7
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings, Inc.",
+      "earnings_date": "2026-11-23",
+      "days_until_earnings": 0,
       "time": "unknown",
       "sector": "Technology",
-      "price": 198.21,
+      "price": 208.97,
       "scores": {
-        "technical": 66,
-        "fundamental": 50,
-        "options": 55,
+        "technical": 71,
+        "fundamental": 45,
+        "options": 63,
         "sentiment": 70,
-        "historical": 62.3,
-        "macro": 0,
-        "overall": 57.1
+        "historical": 76.2,
+        "macro": 5,
+        "overall": 61.6
       },
       "decision": "WAIT"
     },
@@ -173,18 +173,18 @@
       "ticker": "CRM",
       "company": "Salesforce, Inc.",
       "earnings_date": "2026-12-02",
-      "days_until_earnings": 12,
+      "days_until_earnings": 9,
       "time": "unknown",
       "sector": "Technology",
-      "price": 185.47,
+      "price": 185.46,
       "scores": {
         "technical": 48,
         "fundamental": 77,
-        "options": 37,
+        "options": 70,
         "sentiment": 70,
         "historical": 67.9,
-        "macro": 0,
-        "overall": 54.4
+        "macro": 5,
+        "overall": 61.2
       },
       "decision": "WAIT"
     },
@@ -192,18 +192,18 @@
       "ticker": "HPQ",
       "company": "HP Inc.",
       "earnings_date": "2026-11-24",
-      "days_until_earnings": 4,
+      "days_until_earnings": 1,
       "time": "unknown",
       "sector": "Technology",
-      "price": 28.37,
+      "price": 28.9,
       "scores": {
-        "technical": 66,
-        "fundamental": 37,
-        "options": 37,
+        "technical": 78,
+        "fundamental": 42,
+        "options": 55,
         "sentiment": 47,
         "historical": 48.3,
-        "macro": 0,
-        "overall": 46.5
+        "macro": 5,
+        "overall": 55.0
       },
       "decision": "WAIT"
     }
