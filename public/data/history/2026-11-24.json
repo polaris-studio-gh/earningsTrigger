@@ -1,0 +1,179 @@
+{
+  "run_date": "2026-11-24",
+  "run_time": "20:19:04 UTC",
+  "market_summary": {
+    "sp500_trend": "bearish",
+    "sp500_price": 716.88,
+    "sp500_change_pct": -0.75,
+    "nasdaq_trend": "bearish",
+    "nasdaq_price": 636.34,
+    "nasdaq_change_pct": -2.26,
+    "vix": 27.57,
+    "vix_trend": "rising",
+    "market_regime": "risk_off",
+    "risk_level": "high",
+    "sector_leadership": [],
+    "macro_events": [],
+    "breadth": "weak"
+  },
+  "earnings_universe": [
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "earnings_date": "2026-11-24",
+      "days_until_earnings": 0,
+      "time": "unknown",
+      "sector": "Technology",
+      "price": 295.9,
+      "scores": {
+        "technical": 66,
+        "fundamental": 77,
+        "options": 70,
+        "sentiment": 70,
+        "historical": 87.3,
+        "macro": 5,
+        "overall": 69.5
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology, Inc.",
+      "earnings_date": "2026-12-01",
+      "days_until_earnings": 7,
+      "time": "unknown",
+      "sector": "Technology",
+      "price": 132.07,
+      "scores": {
+        "technical": 66,
+        "fundamental": 90,
+        "options": 70,
+        "sentiment": 70,
+        "historical": 56.0,
+        "macro": 5,
+        "overall": 67.4
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday, Inc.",
+      "earnings_date": "2026-11-24",
+      "days_until_earnings": 0,
+      "time": "unknown",
+      "sector": "Technology",
+      "price": 176.61,
+      "scores": {
+        "technical": 58,
+        "fundamental": 80,
+        "options": 70,
+        "sentiment": 47,
+        "historical": 83.6,
+        "macro": 5,
+        "overall": 64.9
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "BILI",
+      "company": "Bilibili Inc.",
+      "earnings_date": "2026-11-24",
+      "days_until_earnings": 0,
+      "time": "unknown",
+      "sector": "Communication Services",
+      "price": 11.06,
+      "scores": {
+        "technical": 53,
+        "fundamental": 78,
+        "options": 70,
+        "sentiment": 70,
+        "historical": 76.6,
+        "macro": 5,
+        "overall": 64.2
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "LULU",
+      "company": "lululemon athletica inc.",
+      "earnings_date": "2026-12-08",
+      "days_until_earnings": 14,
+      "time": "unknown",
+      "sector": "Consumer Cyclical",
+      "price": 106.29,
+      "scores": {
+        "technical": 76,
+        "fundamental": 59,
+        "options": 75,
+        "sentiment": 47,
+        "historical": 64.0,
+        "macro": 5,
+        "overall": 64.2
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce, Inc.",
+      "earnings_date": "2026-12-02",
+      "days_until_earnings": 8,
+      "time": "unknown",
+      "sector": "Technology",
+      "price": 192.52,
+      "scores": {
+        "technical": 51,
+        "fundamental": 77,
+        "options": 70,
+        "sentiment": 70,
+        "historical": 67.9,
+        "macro": 5,
+        "overall": 62.1
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "TCOM",
+      "company": "Trip.com Group Limited",
+      "earnings_date": "2026-12-01",
+      "days_until_earnings": 7,
+      "time": "unknown",
+      "sector": "Consumer Cyclical",
+      "price": 40.58,
+      "scores": {
+        "technical": 56,
+        "fundamental": 79,
+        "options": 37,
+        "sentiment": 70,
+        "historical": 66.8,
+        "macro": 5,
+        "overall": 57.3
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP Inc.",
+      "earnings_date": "2026-11-24",
+      "days_until_earnings": 0,
+      "time": "unknown",
+      "sector": "Technology",
+      "price": 28.23,
+      "scores": {
+        "technical": 61,
+        "fundamental": 37,
+        "options": 37,
+        "sentiment": 47,
+        "historical": 48.3,
+        "macro": 5,
+        "overall": 45.3
+      },
+      "decision": "WAIT"
+    }
+  ],
+  "top_picks": [],
+  "watchlist": [],
+  "watchlist_changes": {
+    "added": [],
+    "removed": []
+  }
+}
