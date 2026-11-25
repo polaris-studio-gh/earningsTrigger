@@ -1,0 +1,141 @@
+{
+  "run_date": "2026-11-25",
+  "run_time": "19:32:28 UTC",
+  "market_summary": {
+    "sp500_trend": "bearish",
+    "sp500_price": 718.0,
+    "sp500_change_pct": -0.11,
+    "nasdaq_trend": "bearish",
+    "nasdaq_price": 634.33,
+    "nasdaq_change_pct": -0.59,
+    "vix": 27.87,
+    "vix_trend": "rising",
+    "market_regime": "risk_off",
+    "risk_level": "high",
+    "sector_leadership": [],
+    "macro_events": [],
+    "breadth": "weak"
+  },
+  "earnings_universe": [
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology, Inc.",
+      "earnings_date": "2026-12-01",
+      "days_until_earnings": 6,
+      "time": "unknown",
+      "sector": "Technology",
+      "price": 129.77,
+      "scores": {
+        "technical": 82,
+        "fundamental": 77,
+        "options": 70,
+        "sentiment": 70,
+        "historical": 56.0,
+        "macro": 5,
+        "overall": 69.7
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "earnings_date": "2026-12-09",
+      "days_until_earnings": 14,
+      "time": "unknown",
+      "sector": "Technology",
+      "price": 297.52,
+      "scores": {
+        "technical": 65,
+        "fundamental": 93,
+        "options": 55,
+        "sentiment": 70,
+        "historical": 84.9,
+        "macro": 5,
+        "overall": 69.1
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce, Inc.",
+      "earnings_date": "2026-12-02",
+      "days_until_earnings": 7,
+      "time": "unknown",
+      "sector": "Technology",
+      "price": 198.68,
+      "scores": {
+        "technical": 74,
+        "fundamental": 77,
+        "options": 70,
+        "sentiment": 70,
+        "historical": 67.9,
+        "macro": 5,
+        "overall": 69.0
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "LULU",
+      "company": "lululemon athletica inc.",
+      "earnings_date": "2026-12-08",
+      "days_until_earnings": 13,
+      "time": "unknown",
+      "sector": "Consumer Cyclical",
+      "price": 107.87,
+      "scores": {
+        "technical": 76,
+        "fundamental": 63,
+        "options": 70,
+        "sentiment": 47,
+        "historical": 64.0,
+        "macro": 5,
+        "overall": 64.0
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "TCOM",
+      "company": "Trip.com Group Limited",
+      "earnings_date": "2026-12-01",
+      "days_until_earnings": 6,
+      "time": "unknown",
+      "sector": "Consumer Cyclical",
+      "price": 40.77,
+      "scores": {
+        "technical": 69,
+        "fundamental": 83,
+        "options": 37,
+        "sentiment": 70,
+        "historical": 66.8,
+        "macro": 5,
+        "overall": 62.0
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "earnings_date": "2026-12-09",
+      "days_until_earnings": 14,
+      "time": "unknown",
+      "sector": "Technology",
+      "price": 234.9,
+      "scores": {
+        "technical": 63,
+        "fundamental": 76,
+        "options": 70,
+        "sentiment": 47,
+        "historical": 54.7,
+        "macro": 5,
+        "overall": 61.3
+      },
+      "decision": "WAIT"
+    }
+  ],
+  "top_picks": [],
+  "watchlist": [],
+  "watchlist_changes": {
+    "added": [],
+    "removed": []
+  }
+}
