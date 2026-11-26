@@ -1,14 +1,14 @@
 {
-  "run_date": "2026-11-25",
-  "run_time": "19:32:28 UTC",
+  "run_date": "2026-11-26",
+  "run_time": "19:15:18 UTC",
   "market_summary": {
     "sp500_trend": "bearish",
-    "sp500_price": 718.0,
-    "sp500_change_pct": -0.11,
+    "sp500_price": 716.7,
+    "sp500_change_pct": -0.29,
     "nasdaq_trend": "bearish",
-    "nasdaq_price": 634.33,
-    "nasdaq_change_pct": -0.59,
-    "vix": 27.87,
+    "nasdaq_price": 633.93,
+    "nasdaq_change_pct": -0.65,
+    "vix": 26.8,
     "vix_trend": "rising",
     "market_regime": "risk_off",
     "risk_level": "high",
@@ -18,13 +18,32 @@
   },
   "earnings_universe": [
     {
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "earnings_date": "2026-12-09",
+      "days_until_earnings": 13,
+      "time": "unknown",
+      "sector": "Technology",
+      "price": 300.86,
+      "scores": {
+        "technical": 70,
+        "fundamental": 93,
+        "options": 70,
+        "sentiment": 70,
+        "historical": 84.9,
+        "macro": 5,
+        "overall": 73.6
+      },
+      "decision": "WAIT"
+    },
+    {
       "ticker": "MRVL",
       "company": "Marvell Technology, Inc.",
       "earnings_date": "2026-12-01",
-      "days_until_earnings": 6,
+      "days_until_earnings": 5,
       "time": "unknown",
       "sector": "Technology",
-      "price": 129.77,
+      "price": 130.93,
       "scores": {
         "technical": 82,
         "fundamental": 77,
@@ -37,32 +56,13 @@
       "decision": "WAIT"
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom Inc.",
-      "earnings_date": "2026-12-09",
-      "days_until_earnings": 14,
-      "time": "unknown",
-      "sector": "Technology",
-      "price": 297.52,
-      "scores": {
-        "technical": 65,
-        "fundamental": 93,
-        "options": 55,
-        "sentiment": 70,
-        "historical": 84.9,
-        "macro": 5,
-        "overall": 69.1
-      },
-      "decision": "WAIT"
-    },
-    {
       "ticker": "CRM",
       "company": "Salesforce, Inc.",
       "earnings_date": "2026-12-02",
-      "days_until_earnings": 7,
+      "days_until_earnings": 6,
       "time": "unknown",
       "sector": "Technology",
-      "price": 198.68,
+      "price": 197.21,
       "scores": {
         "technical": 74,
         "fundamental": 77,
@@ -78,10 +78,10 @@
       "ticker": "LULU",
       "company": "lululemon athletica inc.",
       "earnings_date": "2026-12-08",
-      "days_until_earnings": 13,
+      "days_until_earnings": 12,
       "time": "unknown",
       "sector": "Consumer Cyclical",
-      "price": 107.87,
+      "price": 107.44,
       "scores": {
         "technical": 76,
         "fundamental": 63,
@@ -97,18 +97,18 @@
       "ticker": "TCOM",
       "company": "Trip.com Group Limited",
       "earnings_date": "2026-12-01",
-      "days_until_earnings": 6,
+      "days_until_earnings": 5,
       "time": "unknown",
       "sector": "Consumer Cyclical",
-      "price": 40.77,
+      "price": 40.88,
       "scores": {
         "technical": 69,
         "fundamental": 83,
         "options": 37,
         "sentiment": 70,
-        "historical": 66.8,
+        "historical": 70.7,
         "macro": 5,
-        "overall": 62.0
+        "overall": 62.6
       },
       "decision": "WAIT"
     },
@@ -116,18 +116,37 @@
       "ticker": "ADBE",
       "company": "Adobe Inc.",
       "earnings_date": "2026-12-09",
-      "days_until_earnings": 14,
+      "days_until_earnings": 13,
       "time": "unknown",
       "sector": "Technology",
-      "price": 234.9,
+      "price": 232.83,
       "scores": {
-        "technical": 63,
+        "technical": 58,
         "fundamental": 76,
         "options": 70,
         "sentiment": 47,
         "historical": 54.7,
         "macro": 5,
-        "overall": 61.3
+        "overall": 59.8
+      },
+      "decision": "WAIT"
+    },
+    {
+      "ticker": "COST",
+      "company": "Costco Wholesale Corporation",
+      "earnings_date": "2026-12-10",
+      "days_until_earnings": 14,
+      "time": "unknown",
+      "sector": "Consumer Defensive",
+      "price": 1086.81,
+      "scores": {
+        "technical": 90,
+        "fundamental": 48,
+        "options": 37,
+        "sentiment": 70,
+        "historical": 56.3,
+        "macro": 5,
+        "overall": 59.7
       },
       "decision": "WAIT"
     }

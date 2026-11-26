@@ -3,21 +3,21 @@
   "company": "Trip.com Group Limited",
   "sector": "Consumer Cyclical",
   "price": {
-    "current": 40.77,
-    "open": 39.84,
-    "high": 40.77,
-    "low": 39.69,
+    "current": 40.88,
+    "open": 39.93,
+    "high": 40.99,
+    "low": 39.68,
     "previous_close": 40.73,
-    "change_pct": 0.1,
-    "market_cap": 25673082880
+    "change_pct": 0.37,
+    "market_cap": 25742350336
   },
   "trade_parameters": {
-    "buy_above": 40.77,
+    "buy_above": 42.11,
     "stop_loss": 38.89,
-    "take_profit": 51.48,
-    "expected_move": "\u00b126.27%",
-    "expected_move_dollars": "\u00b1$10.71",
-    "risk_reward": 5.7,
+    "take_profit": 52.86,
+    "expected_move": "\u00b129.3%",
+    "expected_move_dollars": "\u00b1$11.98",
+    "risk_reward": 3.34,
     "support_levels": [
       42.76,
       38.89,
@@ -28,27 +28,27 @@
       39.53,
       40.62
     ],
-    "expected_return_pct": 26.27,
-    "max_drawdown_pct": -4.61
+    "expected_return_pct": 25.53,
+    "max_drawdown_pct": -7.64
   },
   "scores": {
     "technical": 69,
     "fundamental": 83,
     "options": 37,
     "sentiment": 70,
-    "historical": 66.8,
+    "historical": 70.7,
     "macro": 5,
-    "overall": 62.0
+    "overall": 62.6
   },
   "historical_score_breakdown": {
-    "simple": 50,
+    "simple": 63,
     "deep": 74,
-    "merged": 66.8,
+    "merged": 70.7,
     "has_deep": true
   },
   "technical": {
     "trend": {
-      "ema_20": 41.82,
+      "ema_20": 41.83,
       "sma_50": 40.57,
       "sma_100": 42.22,
       "sma_200": 46.24,
@@ -59,21 +59,21 @@
       "death_cross": false
     },
     "momentum": {
-      "rsi_14": 30.0,
-      "macd": 0.1792,
-      "macd_signal": 0.5805,
-      "macd_histogram": -0.4013,
+      "rsi_14": 31.0,
+      "macd": 0.188,
+      "macd_signal": 0.5823,
+      "macd_histogram": -0.3942,
       "stochastic_rsi": 0.0,
       "adx": 40.26,
-      "momentum_score": "oversold"
+      "momentum_score": "weak"
     },
     "volume": {
       "obv_trend": "down",
       "volume_trend": "below_avg"
     },
     "volatility": {
-      "historical_volatility_20": 30.51,
-      "historical_volatility_60": 27.88
+      "historical_volatility_20": 30.5,
+      "historical_volatility_60": 27.89
     },
     "price_structure": {
       "resistance": [
@@ -89,8 +89,8 @@
       "high_20d": 44.9,
       "high_30d": 44.9,
       "high_52w": 78.99,
-      "distance_to_resistance_pct": 93.75,
-      "distance_to_support_pct": 4.61,
+      "distance_to_resistance_pct": 93.22,
+      "distance_to_support_pct": 4.87,
       "nearest_resistance": 78.99,
       "nearest_support": 38.89
     }
@@ -107,20 +107,20 @@
     "cash": 79515000832,
     "total_debt": 26964000768,
     "net_cash": 52551000064,
-    "forward_pe": 9.88,
+    "forward_pe": 9.91,
     "peg_ratio": 0.2,
-    "ev_ebitda": -2.2,
+    "ev_ebitda": -2.19,
     "price_to_sales": 0.39
   },
   "options": {
-    "implied_volatility": 0.9163,
-    "put_call_ratio": 2.12,
-    "call_volume": 262,
-    "put_volume": 556,
+    "implied_volatility": 1.0219,
+    "put_call_ratio": 2.54,
+    "call_volume": 251,
+    "put_volume": 638,
     "call_open_interest": 12824,
     "put_open_interest": 13110,
-    "expected_move": 10.71,
-    "expected_move_pct": 26.27,
+    "expected_move": 11.98,
+    "expected_move_pct": 29.3,
     "atm_straddle_price": null,
     "skew": "mild_put_skew",
     "gamma_exposure": "neutral",
@@ -130,23 +130,23 @@
     "buy_ratings": 29,
     "hold_ratings": 0,
     "sell_ratings": 0,
-    "avg_price_target": 58.67,
-    "target_high": 68.35,
-    "target_low": 42.2,
-    "target_median": 60.36,
+    "avg_price_target": 58.88,
+    "target_high": 68.59,
+    "target_low": 42.35,
+    "target_median": 60.58,
     "consensus_trend": "strong_buy",
     "recent_upgrades": [],
     "recent_downgrades": [],
     "number_of_analysts": 29
   },
   "historical_earnings": {
-    "avg_move_pct": 1.27,
-    "median_move_pct": 1.35,
+    "avg_move_pct": 1.13,
+    "median_move_pct": 1.21,
     "largest_upside_pct": 2.29,
-    "largest_downside_pct": -2.53,
-    "avg_1d_return": -0.28,
-    "gap_up_pct": 50.0,
-    "gap_down_pct": 50.0,
+    "largest_downside_pct": -1.78,
+    "avg_1d_return": 0.22,
+    "gap_up_pct": 62.5,
+    "gap_down_pct": 37.5,
     "recent_moves": [
       {
         "date": "2026-09-15",
@@ -1000,12 +1000,12 @@
   },
   "market_regime": {
     "sp500_trend": "bearish",
-    "sp500_price": 718.0,
-    "sp500_change_pct": -0.11,
+    "sp500_price": 716.7,
+    "sp500_change_pct": -0.29,
     "nasdaq_trend": "bearish",
-    "nasdaq_price": 634.33,
-    "nasdaq_change_pct": -0.59,
-    "vix": 27.87,
+    "nasdaq_price": 633.93,
+    "nasdaq_change_pct": -0.65,
+    "vix": 26.8,
     "vix_trend": "rising",
     "market_regime": "risk_off",
     "risk_level": "high",
@@ -1018,13 +1018,13 @@
       "confidence": 0.0,
       "sp500_trend": "bearish",
       "nasdaq_trend": "bearish",
-      "vix": 27.87,
+      "vix": 26.8,
       "market_regime": "risk_off"
     }
   },
   "decision": "WAIT",
-  "decision_rationale": "solid fundamentals, favorable risk/reward ratio of 5.7:1",
+  "decision_rationale": "solid fundamentals, favorable risk/reward ratio of 3.34:1",
   "earnings_date": "2026-12-01",
-  "days_until_earnings": 6,
+  "days_until_earnings": 5,
   "earnings_time": "unknown"
 }

@@ -3,21 +3,21 @@
   "company": "Salesforce, Inc.",
   "sector": "Technology",
   "price": {
-    "current": 198.68,
+    "current": 197.21,
     "open": 190.36,
     "high": 199.63,
     "low": 188.2,
     "previous_close": 193.26,
-    "change_pct": 2.81,
-    "market_cap": 163517759488
+    "change_pct": 2.04,
+    "market_cap": 162303836160
   },
   "trade_parameters": {
-    "buy_above": 198.68,
+    "buy_above": 197.21,
     "stop_loss": 179.92,
-    "take_profit": 266.79,
-    "expected_move": "\u00b134.28%",
-    "expected_move_dollars": "\u00b1$68.11",
-    "risk_reward": 3.63,
+    "take_profit": 282.17,
+    "expected_move": "\u00b143.08%",
+    "expected_move_dollars": "\u00b1$84.96",
+    "risk_reward": 4.91,
     "support_levels": [
       241.33,
       235.6,
@@ -28,8 +28,8 @@
       234.36,
       239.45
     ],
-    "expected_return_pct": 34.28,
-    "max_drawdown_pct": -9.44
+    "expected_return_pct": 43.08,
+    "max_drawdown_pct": -8.77
   },
   "scores": {
     "technical": 74,
@@ -48,10 +48,10 @@
   },
   "technical": {
     "trend": {
-      "ema_20": 207.19,
-      "sma_50": 225.92,
-      "sma_100": 214.73,
-      "sma_200": 197.22,
+      "ema_20": 207.05,
+      "sma_50": 225.89,
+      "sma_100": 214.71,
+      "sma_200": 197.21,
       "price_above_20_ema": "False",
       "price_above_50_sma": "False",
       "price_above_200_sma": "True",
@@ -59,10 +59,10 @@
       "death_cross": false
     },
     "momentum": {
-      "rsi_14": 33.53,
-      "macd": -11.4533,
-      "macd_signal": -9.7744,
-      "macd_histogram": -1.6789,
+      "rsi_14": 32.14,
+      "macd": -11.5709,
+      "macd_signal": -9.7979,
+      "macd_histogram": -1.773,
       "stochastic_rsi": 100.0,
       "adx": 50.78,
       "momentum_score": "weak"
@@ -72,8 +72,8 @@
       "volume_trend": "below_avg"
     },
     "volatility": {
-      "historical_volatility_20": 49.38,
-      "historical_volatility_60": 39.63
+      "historical_volatility_20": 48.69,
+      "historical_volatility_60": 39.4
     },
     "price_structure": {
       "resistance": [
@@ -89,8 +89,8 @@
       "high_20d": 234.62,
       "high_30d": 252.42,
       "high_52w": 267.8,
-      "distance_to_resistance_pct": 10.73,
-      "distance_to_support_pct": 9.44,
+      "distance_to_resistance_pct": 11.56,
+      "distance_to_support_pct": 8.77,
       "nearest_resistance": 220.0,
       "nearest_support": 179.92
     }
@@ -107,20 +107,20 @@
     "cash": 11402999808,
     "total_debt": 42375999488,
     "net_cash": -30972999680,
-    "forward_pe": 12.41,
+    "forward_pe": 12.32,
     "peg_ratio": 0.49,
-    "ev_ebitda": 14.73,
-    "price_to_sales": 3.72
+    "ev_ebitda": 14.98,
+    "price_to_sales": 3.69
   },
   "options": {
-    "implied_volatility": 1.1958,
-    "put_call_ratio": 0.53,
-    "call_volume": 7196,
-    "put_volume": 3815,
+    "implied_volatility": 1.5026,
+    "put_call_ratio": 0.55,
+    "call_volume": 8216,
+    "put_volume": 4552,
     "call_open_interest": 14407,
     "put_open_interest": 10737,
-    "expected_move": 68.11,
-    "expected_move_pct": 34.28,
+    "expected_move": 84.96,
+    "expected_move_pct": 43.08,
     "atm_straddle_price": null,
     "skew": "mild_call_skew",
     "gamma_exposure": "positive",
@@ -130,7 +130,7 @@
     "buy_ratings": 53,
     "hold_ratings": 0,
     "sell_ratings": 0,
-    "avg_price_target": 284.44,
+    "avg_price_target": 282.37,
     "target_high": 475.0,
     "target_low": 165.0,
     "target_median": 280.0,
@@ -1002,12 +1002,12 @@
   },
   "market_regime": {
     "sp500_trend": "bearish",
-    "sp500_price": 718.0,
-    "sp500_change_pct": -0.11,
+    "sp500_price": 716.7,
+    "sp500_change_pct": -0.29,
     "nasdaq_trend": "bearish",
-    "nasdaq_price": 634.33,
-    "nasdaq_change_pct": -0.59,
-    "vix": 27.87,
+    "nasdaq_price": 633.93,
+    "nasdaq_change_pct": -0.65,
+    "vix": 26.8,
     "vix_trend": "rising",
     "market_regime": "risk_off",
     "risk_level": "high",
@@ -1020,13 +1020,13 @@
       "confidence": 0.0,
       "sp500_trend": "bearish",
       "nasdaq_trend": "bearish",
-      "vix": 27.87,
+      "vix": 26.8,
       "market_regime": "risk_off"
     }
   },
   "decision": "WAIT",
-  "decision_rationale": "solid fundamentals, favorable risk/reward ratio of 3.63:1",
+  "decision_rationale": "solid fundamentals, favorable risk/reward ratio of 4.91:1",
   "earnings_date": "2026-12-02",
-  "days_until_earnings": 7,
+  "days_until_earnings": 6,
   "earnings_time": "unknown"
 }
